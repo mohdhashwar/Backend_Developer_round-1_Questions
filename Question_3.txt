@@ -1,0 +1,8 @@
+Question - 3(one-line Answers)
+ans A) reverse-i-search: It is used to find the past commands in linux terminal.It is activated by the Ctrl + r, this gives us the commands in reverse order.
+     
+    B) '-a' is used to list all files including hidden files, that is the files with names beginning with a dot.
+
+    C) On a scale of 1 to 10(1 being lowest and 10 being highest) i would consider myself at level 4.
+
+    D) No, I haven't used any server to host a web applications in the past.
